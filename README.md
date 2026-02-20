@@ -1,4 +1,4 @@
-# 🛡️ AI Cybersecurity: Network Intrusion Detection
+# 🛡️            AI Cybersecurity: Network Intrusion Detection
 
 > **Automatically classify network traffic as Benign or Malicious using a full production-grade ML pipeline — built on real 2017 network captures, not synthetic toy data.**
 
