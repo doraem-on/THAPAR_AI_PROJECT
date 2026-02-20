@@ -1,4 +1,4 @@
 *.csv
-*-checkpoint.ipynb
+
 .DS_Store
 myenv/
